@@ -1,0 +1,26 @@
+[
+  {
+    "beta_Y": 0.1,
+    "calibrated_beta_0": -1.234130859375,
+    "mean_response_rate": 0.44946645,
+    "naive_bias": -0.04518529945901989,
+    "ipw_bias": -0.03550963963427339,
+    "bias_reduction_pct": 21.413291359331776
+  },
+  {
+    "beta_Y": 0.25,
+    "calibrated_beta_0": -2.330322265625,
+    "mean_response_rate": 0.44945605,
+    "naive_bias": -0.11778449450433859,
+    "ipw_bias": -0.09325014448756375,
+    "bias_reduction_pct": 20.82986399867015
+  },
+  {
+    "beta_Y": 0.5,
+    "calibrated_beta_0": -4.168701171875,
+    "mean_response_rate": 0.4488811,
+    "naive_bias": -0.22973599235596315,
+    "ipw_bias": -0.1855651211685982,
+    "bias_reduction_pct": 19.22679626052005
+  }
+]

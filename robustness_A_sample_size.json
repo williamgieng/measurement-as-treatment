@@ -1,0 +1,29 @@
+[
+  {
+    "n_per_arm": 2000,
+    "naive_bias": -0.07134731196900584,
+    "naive_rmse": 0.09108357966215253,
+    "naive_coverage": 0.784,
+    "ipw_bias": -0.05633959680089834,
+    "ipw_rmse": 0.07946429199103451,
+    "ipw_coverage": 1.0
+  },
+  {
+    "n_per_arm": 10000,
+    "naive_bias": -0.06936111696091396,
+    "naive_rmse": 0.07414009501911985,
+    "naive_coverage": 0.245,
+    "ipw_bias": -0.054883993577346635,
+    "ipw_rmse": 0.06071511515057604,
+    "ipw_coverage": 0.984
+  },
+  {
+    "n_per_arm": 50000,
+    "naive_bias": -0.0707175975603816,
+    "naive_rmse": 0.0717265521351865,
+    "naive_coverage": 0.0,
+    "ipw_bias": -0.05617666879345834,
+    "ipw_rmse": 0.05741291277777216,
+    "ipw_coverage": 0.244
+  }
+]
