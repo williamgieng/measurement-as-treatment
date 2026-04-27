@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19827755.svg)](https://doi.org/10.5281/zenodo.19827755)
+
 # Measurement Is Not Passive — Replication Code
 
 This repository contains the simulation code and replication files for:
